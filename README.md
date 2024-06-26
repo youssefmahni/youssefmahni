@@ -8,7 +8,7 @@ i'm 20 yo student, currently I'm focusing on MERN stack development.
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [youssefmahni11@gmail.com](mailto:youssefmahni!!@gmail.com)
-* 🚀  I'm currently studying at 1337(https://1337.ma)
+* 🚀  I'm currently studying at 1337 https://1337.ma
 * 🧠  I'm learning everything about JavaScript
 
 ### Skills
